@@ -15,6 +15,7 @@ class listTile_view extends StatelessWidget {
               backgroundColor: Colors.deepPurple,
               radius: 50,
             ),
+            
           )
         ],
       ),
